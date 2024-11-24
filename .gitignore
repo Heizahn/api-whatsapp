@@ -1,0 +1,28 @@
+Copy
+# Node modules
+node_modules/
+
+# Compiled output
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# wwebjs_cache
+.wwebjs_cache/
+
+# session whatsapp
+src/services/whatsapp/session-WH/
